@@ -1,0 +1,74 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP Laptop 15-db0xxx"
+  },
+  "BIOS": {
+    "Vendor": "Insyde",
+    "Version": "F.10"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "2",
+    "Threads": "1",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "AuthenticAMD",
+    "Family": "21",
+    "Model": "112",
+    "Stepping": "0",
+    "Name": "AMD E2-9000e RADEON R2, 4 COMPUTE CORES 2C+2G",
+    "Virtualization": "AMD-V"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "1002",
+      "Model": "98e4"
+    }
+  ],
+  "RAM": 4,
+  "Partitions": [
+    198.1,
+    0.3
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx193mm",
+      "Resolution": "1366x768",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "America/Chicago",
+  "Install": {
+    "Media": "Ubuntu 18.04.1 LTS \"Bionic Beaver\" - Release amd64 (20180725)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "reinstall_partition",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "2": "language",
+      "9": "console_setup",
+      "16": "prepare",
+      "85": "partman",
+      "92": "start_install",
+      "102": "timezone",
+      "121": "usersetup",
+      "145": "user_done",
+      "814": "done"
+    }
+  }
+}

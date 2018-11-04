@@ -1,0 +1,84 @@
+01
+of 10
+HTML
+This problem is going to need everyone's imput
+Getty Images
+HTML skills have been a critically important part of the web designer's toolbox since the very start of this profession. For many, this markup language is their entryway into the world of web design.
+
+Ultimately, HTML (hypertext markup language) is the very foundation of how websites are built. To this end, is one of the most important things a web designer or web developer can learn (and which is why is it is one of the first things you will learn). Even if you intend on using WYSIWYG (which stands for What You See Is What You Get) editors or a CMS for most of your career, knowing HTML will give you an understanding of how those tools work and give you so much more control over your work.  This knowledge will also ensure that if you do need to work outside of those editors, you have the ability to do so.  
+
+Bottom line, anyone doing professional work on the Web today has an understanding of HTML.  Even if they do not use it in their normal job functions, they understand this basic markup language.
+
+
+02
+of 10
+CSS
+While HTML dictates the structure of sites, CSS handles the visual appearance. As such, CSS is another incredibly most important language that web designers can learn. 
+
+CSS is an imperative skill for web designers and front-end developers. While CSS may be useful to back-end web developers, it is not as important as it is for designers and front-end devs (these are the professionals who would take a site mockup and code it with HTML and CSS to appear on the screen). That beings said, web developers who know CSS will be able to make their applications interact more effectively with the design. 
+
+For many web professionals, CSS is learned alongside of HTML since the two languages are really the combination that build the structure and style basis for any web page.
+
+
+03
+of 10
+Design Sense
+Having a good sense of design is important for web professionals who fall more into the "designer" category. There is a lot more to web design than simply knowing which colors look good together. You must be knowledgeable of the elements of design as well as the basic design principles as well as typography best practices, how to use images, layout principals and more. You also need to have an understanding of how real people will interact with a design so that you can make the right decisions to help meet the needs of that site.
+
+While design skills are never a bad thing to have, professionals who are more focused as web developers do not need this skill as much unless they are working as a freelancer and are responsible for all aspects of a site's creation (meaning they are not working with a separate designer).
+
+
+04
+of 10
+JavaScript and Ajax
+JavaScript is an important interactive element of a website and web developers should be comfortable in JavaScript before they learn any other languages, especially how it interacts with HTML and CSS to create the 3 layers of web design.
+
+Web designers don't need to learn JavaScript unless they are doing front-end development as well - and even then, a basic understanding of Javascript is often more than enough. Web developers should learn JavaScript as it plays a critical role in many website and web applications today. Anyone engaged in back end development is likely to be very comfortable with Javascript.
+
+05
+of 10
+PHP, ASP, Java, Perl, or C++
+Learning to program web pages requires that you learn at least one or two programming languages. There are many more options than the ones I have listed above, but these are some of the most popular. PHP is easily the leader on the web today, in part because it is an open source language that is embraced by a strong community. If you choose only one language to learn, my suggestion is that it should be PHP. The number of resources you will find online for PHP will be very helpful to you.
+
+Web designers don't need to learn a programming language (other than HTML, which is a markup language, not a pure programming language). Web developers must learn at least one and the more you know the more employable and flexible you will be.  
+
+Want to make yourself super valuable? Look to learn languages that are still in demand, but which not many people are pursuing these days. If you are qualified in those languages, you will find that there may not be a ton of career opportunities for that skill, but those that do exist are super hard to fill, meaning you will be a premium asset.
+
+06
+of 10
+Mobile Support
+On today's Web, there are a staggering variety of devices and screen sizes being used. To this end, websites must support this wide range of user devices with responsive websites that are built for this multi-device world.
+
+Being able to design sites that look great are various sizes, and also being able to write media queries to build responsive websites is critical for Web professionals today.
+
+Mobile goes beyond just responsive websites. If you can develop mobile applications, especially those that interface with websites, you will be very attractive in our increasingly mobile-centric world.
+
+07
+of 10
+Customer Service Skills
+While not a technical skill, having great custom service skills is a key ingredient in a successful web design career.
+
+Whether you work for an agency, as a freelancer, or as an in-house resource for an organization, you will need to communicate with people, present design ideas, and manage relationships. Great customer service skills help you with all of these.
+
+Yes, you will need the technical skills of a web professional to excel, but even the best web designer/developer will fail if they cannot treat their clients the right way.
+
+08
+of 10
+SEO
+Search engine optimization, or SEO, is useful for anyone building websites. There are a number of factors that affect a site's ranking in search engines, from that site's content to its inbound links, to its download speed and performance, and also its mobile-friendliness. All of these factors are ones that a web designer should be mindful of and know how to use to make a site more attractive to engines and more findable to customers.
+
+Both web designers and web developers will have a more desirable resume if they know at least the basics of SEO. Even if the hardcore application of this skill is left to marketing professionals, knowing the basics of SEO is a nice feather in your cap.
+
+09
+of 10
+Web Server Administration
+Knowing at least a little about the web server your website is running on can help you solve problems and make your sites run better. Most web designers feel they can ignore the server, but if you know how the server responds to things, then you can build a better site, as well as one that performs better from a performance perspective.
+
+Web designers don't need to know how to administer a server but could benefit from knowing simple things to at least be able to communicate with server admins more effectively. Web developers should learn more about the server so that they can troubleshoot their scripts and programs.
+
+10
+of 10
+Project Management
+Project management is a critical job skill in nearly every industry and web design is no exception. Project management skills help you to kick a project off right, keep it on track, and ensure that project succeeds. This will endear you to every manager you work with. It will also help move you into more team manager type roles as you look to grow your career.
+
+Both web designers and web developers will benefit from knowing project management. Whether you work in an agency setting or as a freelancer web designer, being able to manage a project is a very useful skill.
