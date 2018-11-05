@@ -71,3 +71,65 @@ ssh-add ~/.ssh/id_rsa
 ssh -T git@github.com
 # Attempts to ssh to GitHub
 rails new my_first_rails_app
+pwd
+/home/you/odin_on_rails/my_first_rails_app
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin git@github.com:spatial42/my_first_rails_app.git
+git@github.com:spatial42/my_first_rails_app.git
+git remote add origin <SSH URL from Above>
+git remote add origin
+-f
+-f --fetch
+curl https://cli-assets.heroku.com/install.sh | sh
+heroku version
+heroku keys:add
+heroku create
+git remote show 
+clear
+ls
+gemfile
+Gemfile
+cd odin_on_ralis
+cd
+odin_on_ralis
+ls odin_on_ralis
+ls -a
+bundle install --without production
+bundle install
+code
+bundle install --without production
+ls
+ls -a
+bundle install --without production
+ls -a
+cd
+,gem
+gem
+gem help install
+bundle install --without production
+cd
+home/odin_on_rails/mt_first_rails_app/Gemfile
+test
+test.txt
+touch test
+cd ...
+dir
+rm dir
+rm test
+gem install rails
+mkdir odin-on-rails
+cd odin-on-rails
+rails new my_first_rails_app
+cd my_first_rails_app
+rails generate scaffold car make:string model:string year:integer
+rails db:migrate
+rails server
+/home/you/odin_on_rails/my_first_rails_app
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin git@github.com:spatial42/my_first_rails_app.git
+git push -u origin master
+curl https://cli-assets.heroku.com/install.sh | sh

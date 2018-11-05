@@ -23,12 +23,76 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///tmp/mozilla_spatial0/code_1.28.2-1539735992_amd64-1.deb" added="2018-11-04T18:11:37Z" modified="2018-11-04T18:11:37Z" visited="2018-11-04T18:11:37.627838Z">
+  <bookmark href="file:///tmp/mozilla_spatial0/code_1.28.2-1539735992_amd64-1.deb" added="2018-11-04T18:11:37Z" modified="2018-11-04T18:11:37Z" visited="2018-11-04T18:11:37Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.debian.binary-package"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-11-04T18:11:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/spatial/odin_on_rails/my_first_rails_app/Gemfile" added="2018-11-04T20:54:55Z" modified="2018-11-04T21:17:09Z" visited="2018-11-04T20:54:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-11-04T21:04:50Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-11-04T21:17:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/spatial/odin_on_rails/my_first_rails_app/Gemfile.lock" added="2018-11-04T20:58:42Z" modified="2018-11-04T20:58:42Z" visited="2018-11-04T20:58:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-11-04T20:58:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/spatial/gem/Gemfile" added="2018-11-04T21:08:06Z" modified="2018-11-05T11:19:57Z" visited="2018-11-04T21:08:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-11-05T11:19:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/spatial/Music" added="2018-11-04T21:19:22Z" modified="2018-11-04T21:19:22Z" visited="2018-11-04T21:19:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2018-11-04T21:19:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/spatial/Gemfile" added="2018-11-05T11:26:33Z" modified="2018-11-05T11:26:33Z" visited="2018-11-05T11:26:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-11-05T11:26:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/spatial/gem/config/routes.rb" added="2018-11-05T11:32:29Z" modified="2018-11-05T11:32:29Z" visited="2018-11-05T11:32:29.758500Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2018-11-05T11:32:29Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
